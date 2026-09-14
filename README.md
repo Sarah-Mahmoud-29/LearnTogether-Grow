@@ -3,10 +3,10 @@
 
 <p align="center">
 
- <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
- <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+ <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"  alt="PRs-welcome-image" />
+ <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License badge image">
 
- <img src="https://img.shields.io/github/last-commit/TScom-dew/LearnTogether-Grow"/>
+ <img src="https://img.shields.io/github/last-commit/TScom-dew/LearnTogether-Grow" alt="last commit"/>
 </p>
 
 **A community-driven repo for learning through contribution and code review.**
